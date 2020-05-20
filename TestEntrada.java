@@ -17,7 +17,7 @@ public class TestEntrada {
 		
 		Entrada palco = new Entrada (50.0);
 		
-		
+		System.out.println();
 		System.out.println("Las entradas de grada tiene " + grada);
 		System.out.println("Las entradas de butaca tiene " + butaca);
 		System.out.println("Las entradas de palco tiene " + palco);
